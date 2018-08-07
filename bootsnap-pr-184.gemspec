@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'bootsnap/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bootsnap"
+  spec.name          = "bootsnap-pr-184"
   spec.version       = Bootsnap::VERSION
   spec.authors       = ["Burke Libbey"]
   spec.email         = ["burke.libbey@shopify.com"]
